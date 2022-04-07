@@ -3,22 +3,18 @@
 This project will include adding new features and enhancements to the loan qualifier application that was previously used. The program included will allow the user to save their qualifying loans to a CSV file and share the data/results in a spreadsheet which can save a lot of time.
 
 ## Technologies
-You will need these tools installed:__
--install fire__
--install questionary__
--python__
+You will need these tools installed:<br />
+-install fire<br />
+-install questionary<br />
+-python<br />
 
 
 
 ## Installation Guide
-You will need to install these and import them before running this code.__
+You will need to install these and import them before running this code.<br />
 
--pip install fire__
--pip install questionary__
--import fire__
--import questionary__
--import sys__
-
-
-
-
+-pip install fire<br />
+-pip install questionary<br />
+-import fire<br />
+-import questionary<br />
+-import sys<br />
